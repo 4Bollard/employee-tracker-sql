@@ -1,0 +1,17 @@
+{
+  "name": "employee-tracker-sql",
+  "version": "1.0.0",
+  "description": "Homework 12 for bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.12.0",
+    "pg": "^8.11.3",
+    "inquirer": "^8.2.4"
+  }
+}
